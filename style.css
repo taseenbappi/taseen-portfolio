@@ -24,14 +24,11 @@ body{
 
 .about-banner{
     
-    background-color: rgb(2, 2, 19);
+    background-color: rgb(16, 14, 23);
     height: 600px;
     
 }
-.about-details{
-    
-    padding-bottom: 50px;
-}
+
 #my-image{
     width: 210px;
     height: 200px;
@@ -127,4 +124,27 @@ body{
     padding: 10px 30px;
     border-radius: 5px;
     margin-top: 50px;
+}
+
+#what-do-text{
+    text-align: center;
+}
+
+.what-do-banner{
+    
+    background-color: rgb(16, 14, 23);
+    height: 600px;
+    color: white;
+}
+.what-do-details{
+    padding: 20px;
+    margin: 35px;
+    box-shadow: 10px 20px 50px black;
+}
+
+.footer{
+    background-color: rgb(16, 14, 23);
+    color: rgb(212, 212, 212);
+    text-align: center;
+    height: auto;
 }
