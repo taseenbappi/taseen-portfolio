@@ -145,6 +145,10 @@ body{
     padding: 20px;
     margin: 35px;
     box-shadow: 10px 20px 50px black;
+    border-radius: 10px;
+    border-bottom: 6px solid transparent;
+    border-image: linear-gradient(to right, red , yellow);
+    border-image-slice: 1;
 }
 
 .footer{
